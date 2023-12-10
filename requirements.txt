@@ -1,0 +1,7 @@
+# These Are Required python packages to run this program
+
+- SciPy
+- NumPy
+- MatplotLib
+- pydub
+- tkinter
